@@ -1,2 +1,2 @@
 # PasswordGenerator
-# This is password generator app with Venilla JavaScript.
+# This is Password Generator App with Venilla JavaScript.
